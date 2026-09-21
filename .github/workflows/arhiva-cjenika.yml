@@ -1,0 +1,60 @@
+name: Dnevna arhiva cjenika
+
+# Svaki dan u 4:30 UTC (5:30 zimi / 6:30 ljeti po hrvatskom vremenu),
+# s rezervom prije zakonskog roka od 8:00.
+# Moguce i rucno pokretanje: Actions -> Run workflow (npr. kad se
+# promijeni cijena usluge tijekom dana).
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  arhiva:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Preuzmi repozitorij
+        uses: actions/checkout@v4
+
+      - name: Preuzmi cjenik, arhiviraj i pocisti starije od 30 dana
+        run: |
+          set -e
+          mkdir -p arhiva
+
+          # vremenska oznaka po hrvatskom vremenu + redni broj pohrane
+          TS=$(TZ=Europe/Zagreb date +%Y%m%d_%H%M)
+          BROJ=$(cat brojac.txt 2>/dev/null || echo 0)
+          BROJ=$((BROJ + 1))
+          echo "$BROJ" > brojac.txt
+          BR=$(printf "%03d" "$BROJ")
+
+          # naziv datoteke po NN 101/2026 t. VI.:
+          # oblik objekta _ adresa _ oznaka objekta _ broj pohrane _ datum i vrijeme
+          OSNOVA="webshop_Horvatova25_Zagreb_NDG1_${BR}_${TS}"
+
+          curl -fsSL "https://ndgmakeup.com/pages/cjenik-csv" -o "arhiva/${OSNOVA}.csv"
+          curl -fsSL "https://ndgmakeup.com/pages/cjenik-xml" -o "arhiva/${OSNOVA}.xml"
+
+          # obrisi arhivirane datoteke starije od 30 dana (datum iz naziva)
+          CUTOFF=$(date -d "30 days ago" +%Y%m%d)
+          for f in arhiva/webshop_*; do
+            [ -e "$f" ] || continue
+            d=$(basename "$f" | grep -oE "[0-9]{8}" | head -1)
+            if [ -n "$d" ] && [ "$d" -lt "$CUTOFF" ]; then
+              rm -f "$f"
+            fi
+          done
+
+          # index.json = popis svih datoteka u arhivi (najnovije prve),
+          # koristi ga stranica /pages/cjenik za automatski prikaz linkova
+          ls arhiva | grep -E "\.(csv|xml)$" | sort -r | jq -R -s 'split("\n") | map(select(length>0))' > arhiva/index.json
+
+      - name: Spremi promjene
+        run: |
+          git config user.name "arhiva-cjenika-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Arhiva cjenika $(TZ=Europe/Zagreb date '+%d.%m.%Y %H:%M')" || echo "Nema promjena"
+          git push
