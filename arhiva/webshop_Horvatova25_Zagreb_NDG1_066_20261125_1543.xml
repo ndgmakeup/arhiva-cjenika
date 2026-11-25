@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik trgovac="NDG makeup / BrushBlender&amp;co." datum_i_vrijeme="25.10.2026 10:15" valuta="EUR"><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. - sapun za pranje spužvica i četkica - 60 gr</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. - sapun za pranje spužvica i četkica - 100 gr</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>14.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>nedostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
+<cjenik trgovac="NDG makeup / BrushBlender&amp;co." datum_i_vrijeme="25.11.2026 15:43" valuta="EUR"><stavka vrsta="proizvod">
     <naziv>Makeup blender</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
@@ -29,7 +7,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>6.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">6.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -40,7 +18,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -51,7 +29,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -62,7 +40,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -73,7 +51,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -84,7 +62,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -95,7 +73,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -106,7 +84,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -117,119 +95,31 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Parcijalne trepavice dramatic</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>5.5</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Jednokratni aplikatori za maskaru/obrve</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>7.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>nedostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. spray cleaner - 100 ml</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>9.99</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. spray cleaner - 250 ml</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>18.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. spray cleaner - 500 ml</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>28.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Paleta i špatula</naziv>
+    <naziv>Sapun za pranje spužvica i četkica - 60 gr</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Jednokratni aplikatori za usne</naziv>
+    <naziv>Sapun za pranje spužvica i četkica - 100 gr</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>7.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>14.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">14.0</sidrena_cijena_eur>
     <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Pamučni štapići</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>E4 četkica za oči</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>E3 četkica za oči</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
+    <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
     <naziv>E5 četkica za oči</naziv>
     <sifra></sifra>
@@ -238,40 +128,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>6.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>E2 četkica za oči</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>E7 četkica za oči</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>6.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>E1 četkica za oči</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">6.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -282,7 +139,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>6.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">6.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -293,86 +150,97 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>6.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">6.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>F1 četkica za lice</naziv>
+    <naziv>E7 četkica za oči</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>6.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">6.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Parcijalne trepavice &quot;not so dramatic&quot;</naziv>
+    <naziv>Spray cleaner - 100 ml</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>7.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>9.99</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>nedostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>1. online edukacija- bronzy full glam</naziv>
-    <sifra>learnworlds_bronzyfullglam</sifra>
-    <marka>LearnWorlds</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>25.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.9.2026.">9.99</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Brush guard - mrežice za kistove</naziv>
+    <naziv>Spray cleaner - 250 ml</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>18.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.9.2026.">18.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Spray cleaner - 500 ml</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>28.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.9.2026.">28.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>E4 četkica za oči</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">4.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Bridal glam</naziv>
-    <sifra>learnworlds_bridal-glam</sifra>
-    <marka>LearnWorlds</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>25.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. PUMPKIN SEASON limited edition sapun za čišćenje četkica i blendera - 60 gr</naziv>
+    <naziv>E1 četkica za oči</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">4.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>BrushBlender&amp;co. PUMPKIN SEASON limited edition sapun za čišćenje četkica i blendera - 100 gr</naziv>
+    <naziv>E3 četkica za oči</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>14.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">4.0</sidrena_cijena_eur>
     <barkod></barkod>
-    <dostupnost>nedostupno</dostupnost>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>E2 četkica za oči</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">4.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
     <naziv>F2 četkica za lice</naziv>
     <sifra></sifra>
@@ -381,18 +249,40 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Dodatni štapići za mixer</naziv>
+    <naziv>E10 spoolie za obrve i kosa četkica</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>1.5</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>L1 četkica za usne</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Parcijalne trepavice dramatic</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>5.5</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.5</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -403,7 +293,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.09.2026.">9.5</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -418,80 +308,25 @@
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>L1 četkica za usne</naziv>
+    <naziv>F1 četkica za lice</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>E10 spoolie za obrve i kosa četkica</naziv>
+    <naziv>Parcijalne trepavice &quot;not so dramatic&quot;</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>7.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Beauty Pouch</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>9.99</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Y češljić</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>2.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Četkica za čiščenje trepavica</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>1.5</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Igla za izolaciju trepavica - Bijela</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>Igla za izolaciju trepavica - Crna</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">7.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -502,7 +337,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -513,51 +348,128 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>3.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">3.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>NDG makeup web shop poklon bon - €10.00</naziv>
+    <naziv>E9 četkica za eyeliner</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Beauty Pouch</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>9.99</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">9.99</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Bridal glam (dostupna za gledanje do 31.12.2026.)</naziv>
+    <sifra>learnworlds_bridal-glam</sifra>
+    <marka>LearnWorlds</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>25.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">25.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Paleta i špatula</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>NDG makeup web shop poklon bon - €25.00</naziv>
+    <naziv>Brush guard - mrežice za kistove</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">4.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Pamučni štapići</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>4.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">4.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>PUMPKIN SEASON limited edition sapun za čišćenje četkica i blendera - 60 gr</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>PUMPKIN SEASON limited edition sapun za čišćenje četkica i blendera - 100 gr</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>14.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">14.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>nedostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Jednokratni aplikatori za usne</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>7.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">7.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>1. online edukacija- bronzy full glam (dostupna za gledanje do 31.12.2026)</naziv>
+    <sifra>learnworlds_bronzyfullglam</sifra>
+    <marka>LearnWorlds</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>25.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">25.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>NDG makeup web shop poklon bon - €50.00</naziv>
+    <naziv>Četkica za čiščenje trepavica</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>50.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
-    <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
-  </stavka><stavka vrsta="proizvod">
-    <naziv>NDG makeup web shop poklon bon - €100.00</naziv>
-    <sifra></sifra>
-    <marka>ndg makeup</marka>
-    <jedinica_mjere></jedinica_mjere>
-    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>100.0</maloprodajna_cijena_eur>
-    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <maloprodajna_cijena_eur>1.5</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">1.5</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -568,7 +480,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>30.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.09.2026.">25.5</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">30.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -577,20 +489,20 @@
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>65.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>70.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">70.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
-    <naziv>Set od 10 četkica za oči</naziv>
+    <naziv>Set od 11 četkica za oči</naziv>
     <sifra></sifra>
     <marka>ndg makeup</marka>
     <jedinica_mjere></jedinica_mjere>
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
-    <maloprodajna_cijena_eur>35.0</maloprodajna_cijena_eur>
+    <maloprodajna_cijena_eur>40.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">40.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -601,7 +513,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>20.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">20.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -612,7 +524,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>15.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">15.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -623,7 +535,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>12.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">12.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -634,7 +546,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>16.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">16.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -645,7 +557,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>14.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">14.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -656,7 +568,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>18.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">18.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -667,7 +579,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>26.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">26.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -678,7 +590,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>36.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">36.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -689,7 +601,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>30.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">30.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -700,7 +612,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>40.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">40.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -711,7 +623,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>17.99</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">17.99</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -722,7 +634,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>21.99</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">21.99</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -733,7 +645,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>32.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">32.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -744,7 +656,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>42.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">42.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -755,7 +667,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>36.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">36.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -766,7 +678,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>46.0</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">46.0</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -777,7 +689,7 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>23.99</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">23.99</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>dostupno</dostupnost>
   </stavka><stavka vrsta="proizvod">
@@ -788,59 +700,242 @@
     <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
     <maloprodajna_cijena_eur>27.99</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026."></sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">27.99</sidrena_cijena_eur>
     <barkod></barkod>
     <dostupnost>nedostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>NDG makeup web shop poklon bon - €10.00</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>10.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">10.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>NDG makeup web shop poklon bon - €25.00</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>25.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">25.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>NDG makeup web shop poklon bon - €50.00</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>50.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">50.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>NDG makeup web shop poklon bon - €100.00</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>100.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">100.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Igla za izolaciju trepavica - Bijela</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Igla za izolaciju trepavica - Crna</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>5.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Dodatni štapići za mixer</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>1.5</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">1.5</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka><stavka vrsta="proizvod">
+    <naziv>Y češljić</naziv>
+    <sifra></sifra>
+    <marka>ndg makeup</marka>
+    <jedinica_mjere></jedinica_mjere>
+    <cijena_za_jedinicu_mjere_eur></cijena_za_jedinicu_mjere_eur>
+    <maloprodajna_cijena_eur>2.0</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="Sniženje">da</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">2.0</sidrena_cijena_eur>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
   </stavka>
 <stavka vrsta="usluga">
-    <naziv>Profesionalno šminkanje</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>BROW LIFT + LASH LIFT EDUKACIJA 1 MODEL</naziv>
+    <maloprodajna_cijena_eur>680.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">680.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Šminkanje za vjenčanja</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>BROW LIFT + LASH LIFT EDUKACIJA 2 MODELA</naziv>
+    <maloprodajna_cijena_eur>860.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">860.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Spray tan</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>SPRAY TAN EDUKACIJA ZA POČETNIKE 1 MODEL</naziv>
+    <maloprodajna_cijena_eur>900.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">900.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Lash lift</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>SPRAY TAN EDUKACIJA ZA POČETNIKE 2 MODELA</naziv>
+    <maloprodajna_cijena_eur>1000.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">1000.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Brow lift</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>SPRAY TAN EDUKACIJA ZA POČETNIKE 3 MODELA</naziv>
+    <maloprodajna_cijena_eur>1100.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">1100.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Threading</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>AKONTACIJA ZA SPRAY TAN EDUKACIJU</naziv>
+    <maloprodajna_cijena_eur>300.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">300.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Makeup edukacija</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>LEVEL UP SPRAY TANNING 1 MODEL</naziv>
+    <maloprodajna_cijena_eur>650.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">650.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Spray tan edukacija</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>LEVEL UP SPRAY TANNING 2 MODELA</naziv>
+    <maloprodajna_cijena_eur>750.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">750.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Lash lift edukacija</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>AKONTACIJA ZA LEVEL UP SPRAY TANNING</naziv>
+    <maloprodajna_cijena_eur>50.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">50.00</sidrena_cijena_eur>
   </stavka><stavka vrsta="usluga">
-    <naziv>Brow lift edukacija</naziv>
-    <maloprodajna_cijena_eur>0.00</maloprodajna_cijena_eur>
+    <naziv>LASH LIFT EDUKACIJA 1 MODEL</naziv>
+    <maloprodajna_cijena_eur>400.00</maloprodajna_cijena_eur>
     <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
-    <sidrena_cijena_eur datum="10.9.2026.">0.00</sidrena_cijena_eur>
+    <sidrena_cijena_eur datum="10.09.2026.">400.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>LASH LIFT EDUKACIJA 2 MODELA</naziv>
+    <maloprodajna_cijena_eur>500.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">500.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>AKONTACIJA ZA LASH LIFT EDUKACIJU, USAVRŠAVANJE ŠMINKANJA, BROW LIFT EDUKACIJU</naziv>
+    <maloprodajna_cijena_eur>50.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">50.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>USAVRŠAVANJE ZA ŠMINKERE MUA TRAINING 1 MODEL</naziv>
+    <maloprodajna_cijena_eur>250.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">250.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>USAVRŠAVANJE ZA ŠMINKERE MUA TRAINING 2 MODELA</naziv>
+    <maloprodajna_cijena_eur>470.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">470.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>USAVRŠAVANJE ZA ŠMINKERE MUA TRAINING 3 MODELA</naziv>
+    <maloprodajna_cijena_eur>850.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">850.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>EDUKACIJA ŠMINKANJA ZA POČETNIKE 15H</naziv>
+    <maloprodajna_cijena_eur>800.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">800.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>EDUKACIJA ŠMINKANJA ZA POČETNIKE 22H</naziv>
+    <maloprodajna_cijena_eur>1250.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">1250.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>SPRAY TAN</naziv>
+    <maloprodajna_cijena_eur>40.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">40.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>ŠMINKANJE SA TREPAVICAMA</naziv>
+    <maloprodajna_cijena_eur>70.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">70.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>ŠMINKANJE BEZ TREPAVICA</naziv>
+    <maloprodajna_cijena_eur>65.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">65.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>PROBNO ŠMINKANJE SA TREPAVICAMA</naziv>
+    <maloprodajna_cijena_eur>70.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">70.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>PROBNO ŠMINKANJE BEZ TREPAVICA</naziv>
+    <maloprodajna_cijena_eur>65.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">65.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>LASH LIFT</naziv>
+    <maloprodajna_cijena_eur>40.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">40.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>THREADING OBRVA</naziv>
+    <maloprodajna_cijena_eur>14.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">14.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>BOJANJE OBRVA</naziv>
+    <maloprodajna_cijena_eur>5.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>THREADING NADUSNICA</naziv>
+    <maloprodajna_cijena_eur>5.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">5.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>THREADING LICA</naziv>
+    <maloprodajna_cijena_eur>22.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">22.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>BROW LIFT</naziv>
+    <maloprodajna_cijena_eur>30.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">30.00</sidrena_cijena_eur>
+  </stavka><stavka vrsta="usluga">
+    <naziv>BROW LIFT + THREADING + BOJA</naziv>
+    <maloprodajna_cijena_eur>40.00</maloprodajna_cijena_eur>
+    <poseban_oblik_prodaje naziv="">ne</poseban_oblik_prodaje>
+    <sidrena_cijena_eur datum="10.09.2026.">40.00</sidrena_cijena_eur>
   </stavka>
 </cjenik>
